@@ -23,7 +23,7 @@ st.set_option("client.showErrorDetails", False)
 
 st.set_page_config(layout="wide")
 
-st.title("Maries Lieblingsfarbe")
+st.title("Maries Lieblingsfarbe 🦉")
 
 show_name = st.checkbox("Farbname anzeigen", value=True)
 FILTER_FILE = "filtered_colors.json"
